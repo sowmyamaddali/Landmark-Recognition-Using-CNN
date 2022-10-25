@@ -1,6 +1,5 @@
 # Landmark-Recognition-Using-CNN
 
-# Landmark-Recognition-Using-CNN
 Implementing DeLF module to extract features from an image of a landmark, and RANSAC to geometrically verify if the landmark is matched.
 
 ### Abstract:
